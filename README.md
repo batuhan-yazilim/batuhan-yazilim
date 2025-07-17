@@ -15,10 +15,10 @@ Benim adım Batuhan, teknolojiye büyük ilgi duyan bir yazılım geliştiricisi
 - **Diller:**\
 [![Yetkinliklerim](https://skillicons.dev/icons?i=js,ts,html,css,cs,py,lua)](https://skillicons.dev)  
 - **Araçlar:**\
-[![Yetkinliklerim](https://skillicons.dev/icons?i=discord,twitter,instagram,facebook,github,visualstudio,vscode,blender,windows,dotnet,pr,ps,ai,robloxstudio,godot)](https://skillicons.dev)
+[![Yetkinliklerim](https://skillicons.dev/icons?i=discord,twitter,instagram,github,visualstudio,vscode,blender,windows,dotnet,pr,ps,ai,robloxstudio,godot)](https://skillicons.dev)
 
 ![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=sparrow-spw&theme=transparent)  
-![Batuhan Yazılımın'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=sparrow-spw&theme=transparent&show_icons=true)  
+![Batuhan Yazılımın'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=batuhan_yazilim-spw&theme=transparent&show_icons=true)  
 
 ## 🌐 Beni Şu Platformlarda Bulabilirsin:
 
