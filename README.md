@@ -17,11 +17,11 @@ My name is Batuhan, a passionate software developer with a strong interest in te
 - **Tools:**  
 [![Skills](https://skillicons.dev/icons?i=discord,twitter,instagram,github,visualstudio,vscode,blender,windows,dotnet,pr,ps,ai,robloxstudio,godot)](https://skillicons.dev)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sparrow-spw&theme=transparent)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhan-yazilim&theme=transparent)  
 ![Batuhan Yazılım's GitHub Stats](https://github-readme-stats.vercel.app/api?username=batuhan-yazilim&theme=transparent&show_icons=true)  
 
 ## 🌐 Find Me On:  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=X&logoColor=white)](https://x.com/batuhanyazilim)  
+[![Twitte](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=X&logoColor=white)](https://x.com/batuhanyazilim)  
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@Batuhan_Yazilim)  
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.gg/3ZCbqYMPnf)  
 
