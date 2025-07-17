@@ -18,7 +18,7 @@ Benim adım Batuhan, teknolojiye büyük ilgi duyan bir yazılım geliştiricisi
 [![Yetkinliklerim](https://skillicons.dev/icons?i=discord,twitter,instagram,github,visualstudio,vscode,blender,windows,dotnet,pr,ps,ai,robloxstudio,godot)](https://skillicons.dev)
 
 ![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=sparrow-spw&theme=transparent)  
-![Batuhan Yazılımın'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=batuhan-cv&theme=transparent&show_icons=true)  
+![Batuhan Yazılımın'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=batuhan-yazilim&theme=transparent&show_icons=true)  
 
 ## 🌐 Beni Şu Platformlarda Bulabilirsin:
 
