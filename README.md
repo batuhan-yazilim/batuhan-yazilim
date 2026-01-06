@@ -15,7 +15,7 @@ My name is Batuhan, a passionate software developer with a strong interest in te
 - **Languages:**  
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,py,lua)](https://skillicons.dev)  
 - **Tools:**  
-[![Skills](https://skillicons.dev/icons?i=discord,twitter,instagram,github,visualstudio,vscode,wordpress,gamemakerstudio,powershell,blender,windows,androidstudio,linux,dotnet,pr,ps,ai,robloxstudio,godot,unity)](https://skillicons.dev)  
+[![Skills](https://skillicons.dev/icons?i=discord,x,instagram,github,visualstudio,vscode,wordpress,gamemakerstudio,powershell,blender,windows,androidstudio,linux,dotnet,pr,ps,ai,robloxstudio,godot,unity)](https://skillicons.dev)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhan-yazilim&theme=transparent)  
 ![Batuhan Yazılım's GitHub Stats](https://github-readme-stats.vercel.app/api?username=batuhan-yazilim&theme=transparent&show_icons=true)  
